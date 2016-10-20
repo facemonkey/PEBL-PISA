@@ -1,0 +1,7 @@
+PEBL Move-to-target task. ("whack-a-mole") 
+
+
+This task requires the user to move to a target within a time limit; immediately after that the target appears elsewhere. In addition, if the target isn't hit in time, it will disappear.
+
+After the first trial of 30 targets, the mapping will change.  this is similar to the tracking task.
+

@@ -1,0 +1,8 @@
+isi|3000|Inter-stimulus interval
+trailsperround|20|Number of trials per round (between breaks)
+dopractice|1|whether practice should be performed
+practicetrials|10|Number of practice trials
+doaudio|1|Whether audio should be presented (making it a true PASAT)
+dovisual|1|Whether visual number should also be presented.
+rounds|2|Number of rounds to test
+max|2|Largest number to use. Sounds only go to 20.

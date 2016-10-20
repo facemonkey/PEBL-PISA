@@ -1,0 +1,8 @@
+Inst1text,"Šioje užduotyje Jums reikės nustatyti rodyklės kryptį.  Jei ekrane pasirodžiusi rodyklė nukreipta į kairę, spauskite kairį 'Shift' mygtuką.  Jei ekrane pasirodžiusi rodyklė nukreipta į dešinę, spauskite dešinį 'Shift' mygtuką. Dabar spauskite 'Enter' mygtuką."
+Inst3text,"Keli pirmi bandymai nebus skaičiuojami.  Po kiekvieno bandymo Jums bus parodoma ar atsakėte teisingai.  Stenkitės atsakyti taip greitai kaip galite.  Dabar spauskite 'Enter' mygtuką ir prasidės bandymas."
+FooterL,"Kairys-shift"
+FooterR,"Dešinys-shift"
+interblock,"Bandymo dalis baigėsi. Dabar prasidės tikras tyrimas, todėl nematysite ar atsakėte teisingai. Spauskite 'Enter' mygtuką."
+Debrief,"Tyrimas baigėsi. Spauskite 'Enter' mygtuką."
+correct,"Teisingai!"
+incorrect,"Neteisingai"

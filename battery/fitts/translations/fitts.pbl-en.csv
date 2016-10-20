@@ -1,0 +1,8 @@
+inst,"In this test, you will be asked to move the mouse as quickly as possible from its initial location to the red target.  The target will be at a different location each time, and will be of different sizes.  Try to move quickly to the target without overshooting. "
+instnopreview," You will not see the target before you start moving, so be careful not to overshoot the target."
+insttype2,"When you move to the target, click the mouse."
+insttype3,"When you move to the target, stop moving to indicate you have reached the target."
+clickmouse,"Click mouse to set position"
+moveready,"Move to target when ready."
+trial,"Trial"
+of,"of"

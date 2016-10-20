@@ -1,0 +1,7 @@
+inst1mouse,"Está prestes a iniciar um teste em que terá de prestar atenção a um estímulo que surgirá no ecrã.  \nA sua tarefa é simples, carregue na tecla de espaço sempre que surguir um círculo vermelho.  Não reaga ao sinal de mais: '+'.  Para começar carregue na tecla de espaço."
+inst1key,"Está prestes a iniciar um teste em que terá de prestar atenção a um estímulo que surgirá no ecrã.  \nA sua tarefa é simples, carregue na tecla de espaço sempre que surguir um círculo vermelho.  Não reaga ao sinal de mais: '+'.  Para começar carregue na tecla de espaço."
+toofast,"MUITO RÁPIDO! Aguarde pelo estímulo."
+debrief,"Obrigado por participar.  (Carregue 'X' para terminar)"
+footer,"Respond only red circle, not to cross"
+footermouse,"Respond by clicking mouse button"
+footerkey,"Respond by pressing space bar"

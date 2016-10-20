@@ -1,0 +1,7 @@
+DEBRIEF,"Gracias por tu participacion."
+INST1,"En esta prueba observarás en la pantalla varias letras “P” y “R”. Siempre que veas una “P” responde presionando el shift derecho del teclado. NUNCA RESPONDAS cuando lo que aparezca sea una “R”. La mayoría de las letras que observarás serán “P”. Comenzarás con algunos ensayos de práctica. Presiona el shift derecho para comenzar."
+INST2,"Ahora la prueba comenzará con los ensayos reales. De ahora en adelante no se te dirá cuando cometas un error. Presiona cualquier tecla para comenzar."
+INST3,"Puedes tomar un pequeno descanso para continuar. En esta segunda parte del estudio, tenemos que hacer lo contrario. Ahora, debes responder cada vez que aparezca la letra R, pero no responder cuando veas una letra P. La mayoria de letras que miraras seran P. Iniciaremos con una pequena practica. Presiona la tecla roja cuando estos listo para comenzar."
+METHODMOUSE,"Presiona MOUSEBUTTON"
+METHODKEY,"Presiona la tecla roja cuando veas una letra"
+LANGUAGE,"es"

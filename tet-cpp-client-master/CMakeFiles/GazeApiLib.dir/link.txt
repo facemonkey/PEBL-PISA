@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar qc libGazeApiLib.a  CMakeFiles/GazeApiLib.dir/src/gazeapi.cpp.o CMakeFiles/GazeApiLib.dir/src/gazeapi_parser.cpp.o CMakeFiles/GazeApiLib.dir/src/gazeapi_socket.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib libGazeApiLib.a

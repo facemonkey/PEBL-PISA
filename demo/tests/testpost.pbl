@@ -1,0 +1,25 @@
+define Start(p)
+{
+
+
+  host <- "posttestserver.com"
+  page <- "/post.php"
+
+  content <- "dir=PEBL&answer=42&name=Bubba"
+
+   ##dummy:  
+  headers <- [
+              "Connection", "close",
+              "Content-type","application/x-www-form-urlencoded",
+              "HTTP_CONNECTION", "close",
+              "Accept","text/plain" ]
+
+  savename <- "test.html"
+
+
+  
+  out <-  PostHTTP(host,page,headers,content)
+  Print("-------------------")
+  Print(out)
+  Print("-------------------")
+} 
